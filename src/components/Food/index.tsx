@@ -16,7 +16,7 @@ interface IFood {
 interface FoodProps {
   food: IFood,
   handleEditFood: (food: IFood) => void,
-  handleDelete: (od: number) => void
+  handleDelete: (id: number) => void
 }
 
 export default function Food({ food, handleEditFood, handleDelete }: FoodProps) {
