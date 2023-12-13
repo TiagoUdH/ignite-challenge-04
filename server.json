@@ -5,7 +5,7 @@
       "name": "Lasanha de Frango",
       "price": "26.00",
       "description": "Uma lasanha de frango",
-      "available": false,
+      "available": true,
       "id": 1
     }
   ]
